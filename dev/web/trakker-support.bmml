@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" measuredW="1249" measuredH="695" mockupW="1227" mockupH="683">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="22" y="12" w="1227" h="683" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Trakker%20-%20Support%0Ahttp%3A//127.0.0.1/support</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="196" y="95" w="487" h="557" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="__group__" x="691" y="95" w="250" h="250" measuredW="250" measuredH="250" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="0" w="250" h="250" measuredW="320" measuredH="240" zOrder="0" locked="false" isInGroup="2"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="12" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <text>Google%20Ads</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="691" y="353" w="250" h="250" measuredW="250" measuredH="250" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="0" w="250" h="250" measuredW="320" measuredH="240" zOrder="0" locked="false" isInGroup="3"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="10" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>Google%20Ads</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="205" y="106" w="-1" h="-1" measuredW="237" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Need%20live%20assistance%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="37" y="95" w="150" h="557" measuredW="150" measuredH="390" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>trakker-activity%26bm%3Btrakker-activity.bmml%26bm%3Btrakker-activity.bmml%26bm%3Btrakker-activity.bmml%2Ctrakker-account%26bm%3Btrakker-account.bmml%26bm%3Btrakker-account.bmml%26bm%3Btrakker-account.bmml%2Ctrakker-my-keys%26bm%3Btrakker-my-keys.bmml%26bm%3Btrakker-my-keys.bmml%26bm%3Btrakker-my-keys.bmml%2Ctrakker-prefs%26bm%3Btrakker-prefs.bmml%26bm%3Btrakker-prefs.bmml%26bm%3Btrakker-prefs.bmml%2Ctrakker-search%26bm%3Btrakker-search.bmml%26bm%3Btrakker-search.bmml%26bm%3Btrakker-search.bmml%2Ctrakker-help%26bm%3Btrakker-help.bmml%26bm%3Btrakker-help.bmml%26bm%3Btrakker-help.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C83%2C165%2C113%22%20href%3D%22trakker-activity.bmml%22%20alt%3D%22trakker-activity%22%20id%3D%227_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C108%2C165%2C138%22%20href%3D%22trakker-account.bmml%22%20alt%3D%22trakker-account%22%20id%3D%227_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C83%2C15%2C83%22%20href%3D%22trakker-my-keys.bmml%22%20alt%3D%22trakker-my-keys%22%20id%3D%227_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C83%2C15%2C83%22%20href%3D%22trakker-prefs.bmml%22%20alt%3D%22trakker-prefs%22%20id%3D%227_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C133%2C165%2C163%22%20href%3D%22trakker-search.bmml%22%20alt%3D%22trakker-search%22%20id%3D%227_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C158%2C165%2C188%22%20href%3D%22trakker-help.bmml%22%20alt%3D%22trakker-help%22%20id%3D%227_5%22/%3E%0A</map>
+        <markup>true</markup>
+        <selectedIndex>7</selectedIndex>
+        <text>Activity%0AAccount%20Info%0A-%20My%20Keys%0A-%20Preferences%0ASearch%0AHelp%0A-%20FAQ%0A-%20Support%0A-%20Developer%20FAQ%0A-%20RSS</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
